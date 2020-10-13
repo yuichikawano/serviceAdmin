@@ -96,7 +96,7 @@ const config: NuxtConfig = {
     // basic auth
     basic,
     // Global CSS
-    css: ['~/app/assets/style/app.styl'],
+    // css: ['~assets/style/app.styl'],
     // StyleResource configuration
     styleResources: {
         stylus: ['./assets/style/variables.styl', './assets/style/mixins.styl'],
